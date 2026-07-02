@@ -53,3 +53,6 @@ Combined churn probability and predicted revenue into a 2x2 prioritization frame
 * Built a churn model reaching 0.71 ROC-AUC / 0.81 F1-score, with an optimized decision threshold for real-world deployment.
 * Forecasted $22.39M in predicted revenue for the following quarter, broken down by customer segment and priority.
 * Translated model outputs into a prioritization framework directly usable by marketing (e.g., the "Grow & Upsell" segment — only 16% of customers — represents the highest average revenue and lowest churn risk, an ideal upsell target).
+
+## Dashboard
+https://datastudio.google.com/embed/reporting/492e5dd9-6654-4005-8503-a1f75c7ef0f8/page/JzE1F 
