@@ -1,7 +1,7 @@
 # Customer 360 Framework for Electronics Retail: RFM Segmentation, Churn Prediction, and Purchase Behavior Prediction 
 
-* Role: Data Scientist (End-to-End Project)
-* Tools: Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP), Google Colab, Interactive BI Dashboard
+* Role: Data Scientist 
+* Tools: Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP), Google Colab, Interactive Dashboard
 * Dataset: E-commerce transaction logs — electronics retail store (Jan–Nov 2020, ~80K customers / 
 https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store )
 
