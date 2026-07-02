@@ -34,3 +34,6 @@ and to translate that into a prioritization framework the business could act on 
 * Built and benchmarked three models — Logistic Regression (baseline), XGBoost, and LightGBM — using stratified train/test splits and class-imbalance handling (scale_pos_weight / is_unbalance).
 * Selected XGBoost as the best model based on ROC-AUC, then tuned the decision threshold (0.21) to optimize F1-score for business use.
 * Used SHAP to explain predictions and validate that recency, frequency, and purchase-interval features were the dominant churn drivers — consistent with domain intuition.
+
+### Model comparison
+<img width="786" height="144" alt="image" src="https://github.com/user-attachments/assets/3df6edfd-201c-48c1-9a19-99c205c1d405" />
