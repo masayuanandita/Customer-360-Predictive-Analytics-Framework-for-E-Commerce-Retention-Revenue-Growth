@@ -56,3 +56,8 @@ Combined churn probability and predicted revenue into a 2x2 prioritization frame
 
 ## Dashboard
 https://datastudio.google.com/embed/reporting/492e5dd9-6654-4005-8503-a1f75c7ef0f8/page/JzE1F 
+![Uploading Customer_360_Dashboard_page-0001.jpg…]()
+![Uploading Customer_360_Dashboard_page-0002.jpg…]()
+![Uploading Customer_360_Dashboard_page-0003.jpg…]()
+![Uploading Customer_360_Dashboard_page-0004.jpg…]()
+
