@@ -65,5 +65,5 @@ https://datastudio.google.com/embed/reporting/492e5dd9-6654-4005-8503-a1f75c7ef0
 Anandita 
 Data Analyst | Data Science & Machine Learning Enthusiast
 
-LinkedIn: https://www.linkedin.com/in/masayuanandita- 
-Email : ananditaprameswari23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/masayuanandita- 
+- Email : ananditaprameswari23@gmail.com
