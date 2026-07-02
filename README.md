@@ -45,3 +45,11 @@ and to translate that into a prioritization framework the business could act on 
 
 ### Customer Priority Matrix
 Combined churn probability and predicted revenue into a 2x2 prioritization framework with four actionable segments
+<img width="2148" height="711" alt="image" src="https://github.com/user-attachments/assets/feff5dd6-1304-4355-89e1-ca1243f75ee0" />
+
+## Key Results
+* Segmented 80,175 customers into 5 RFM tiers and 4 actionable priority groups.
+* Identified that 72.7% of revenue comes from just 34% of customers (Champions + Loyal), sharpening retention focus.
+* Built a churn model reaching 0.71 ROC-AUC / 0.81 F1-score, with an optimized decision threshold for real-world deployment.
+* Forecasted $22.39M in predicted revenue for the following quarter, broken down by customer segment and priority.
+* Translated model outputs into a prioritization framework directly usable by marketing (e.g., the "Grow & Upsell" segment — only 16% of customers — represents the highest average revenue and lowest churn risk, an ideal upsell target).
