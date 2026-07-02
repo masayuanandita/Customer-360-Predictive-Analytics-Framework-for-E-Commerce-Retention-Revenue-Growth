@@ -29,7 +29,7 @@ and to translate that into a prioritization framework the business could act on 
 ### RFM Segmentation
 * Computed Recency, Frequency, Monetary (RFM) scores per customer and derived quintile-based segments: Champions, Loyal, Potential Loyal, At Risk, Lost.
 * Champions and Loyal customers made up only ~34% of the base but generated 72.7% of total revenue ($68.37M), confirming a classic Pareto pattern and validating the need for segment-specific strategy.
-<img width="582" height="177" alt="image" src="https://github.com/user-attachments/assets/f93e5d3b-e05a-4427-8b0d-15125c22703b" />
+ <img width="582" height="177" alt="image" src="https://github.com/user-attachments/assets/f93e5d3b-e05a-4427-8b0d-15125c22703b" />
 
 
 
@@ -40,6 +40,7 @@ and to translate that into a prioritization framework the business could act on 
 * Used SHAP to explain predictions and validate that recency, frequency, and purchase-interval features were the dominant churn drivers — consistent with domain intuition.
 
 ### Model comparison
+ <img width="771" height="126" alt="image" src="https://github.com/user-attachments/assets/04654f40-02c9-4e15-939b-8addbb9be010" />
 
 
 ### Customer Priority Matrix
