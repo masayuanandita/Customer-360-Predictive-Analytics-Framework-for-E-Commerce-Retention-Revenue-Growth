@@ -1,4 +1,5 @@
-# Customer 360: Predictive Analytics Framework for E-Commerce Retention & Revenue Growth
+# Customer 360 Framework for Electronics Retail: RFM Segmentation, Churn Prediction, and Purchase Behavior Prediction 
+
 * Role: Data Scientist (End-to-End Project)
 * Tools: Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP), Google Colab, Interactive BI Dashboard
 * Dataset: E-commerce transaction logs — electronics retail store (Jan–Nov 2020, ~80K customers / 
@@ -28,6 +29,15 @@ and to translate that into a prioritization framework the business could act on 
 ### RFM Segmentation
 * Computed Recency, Frequency, Monetary (RFM) scores per customer and derived quintile-based segments: Champions, Loyal, Potential Loyal, At Risk, Lost.
 * Champions and Loyal customers made up only ~34% of the base but generated 72.7% of total revenue ($68.37M), confirming a classic Pareto pattern and validating the need for segment-specific strategy.
+  
+RFM Segment 	RFM Score	n Customer	%	Churn Rate	Interpretation
+Champions	13 – 15	15.345	19,1%	61,0%	Active, frequent, high value
+Loyal	10 – 12	21.179	26,4%	77,9%	Consistent engagement
+Potential Loyal	7 – 9	21.500	26,8%	83,8%	Potential to be loyal
+At Risk	5 – 6	13.778	17,2%	87,5%	Starting to be inactive
+Lost	3 – 4	8.373	10,4%	88,0%	Long time inactive
+Total	—	80.175	100%	78,9%	—
+<img width="468" height="153" alt="image" src="https://github.com/user-attachments/assets/c768a4d7-64d8-4563-9ec5-4fc0eace1622" />
 
 ### Churn Prediction
 * Framed churn as: did the customer make zero purchases in the 3-month observation window?
@@ -42,3 +52,5 @@ Low Risk (0,25–0,50)	20.656	25,8%	0,397	1.029,21
 Safe (< 0,25)	4.179	5,2%	0,170	5.012,60
 <img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/e11b02fc-8f5a-4fca-a961-dcd5e6af32ef" />
 
+### Customer Priority Matrix
+Combined churn probability and predicted revenue into a 2x2 prioritization framework with four actionable segments
