@@ -36,4 +36,9 @@ and to translate that into a prioritization framework the business could act on 
 * Used SHAP to explain predictions and validate that recency, frequency, and purchase-interval features were the dominant churn drivers — consistent with domain intuition.
 
 ### Model comparison
-<img width="786" height="144" alt="image" src="https://github.com/user-attachments/assets/3df6edfd-201c-48c1-9a19-99c205c1d405" />
+Churn Risk	n Pelanggan	Persentase	Avg Churn Prob	Avg Monetary (USD)
+Medium Risk (0,50–0,75)	55.340	69,0%	0,620	472,75
+Low Risk (0,25–0,50)	20.656	25,8%	0,397	1.029,21
+Safe (< 0,25)	4.179	5,2%	0,170	5.012,60
+<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/edf0341e-5d76-4ec2-a2f8-1b3af89e4227" />
+
